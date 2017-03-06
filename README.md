@@ -1,0 +1,3 @@
+### Lynda - Using Symbols In SVG
+
+This course shows how to create new SVG graphics and then convert them into reusable symbols with Adobe Illustrator. Then you will learn how to customize the symbols to fit your layouts by editing the position, transformation, and color properties of each instance you place. This technique allows you to build complex graphics much more quickly than you could design them from scratch.
